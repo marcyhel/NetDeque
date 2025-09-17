@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDeque", "NetDeque\NetDeque.csproj", "{2795814D-8EED-4AED-BEC4-0CC0B73ECD98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDeque.Tests", "NetDeque.Tests\NetDeque.Tests.csproj", "{F698281E-FE68-4914-A82B-2857ADF1A0AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2795814D-8EED-4AED-BEC4-0CC0B73ECD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2795814D-8EED-4AED-BEC4-0CC0B73ECD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2795814D-8EED-4AED-BEC4-0CC0B73ECD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F698281E-FE68-4914-A82B-2857ADF1A0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F698281E-FE68-4914-A82B-2857ADF1A0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F698281E-FE68-4914-A82B-2857ADF1A0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F698281E-FE68-4914-A82B-2857ADF1A0AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
